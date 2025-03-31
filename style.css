@@ -249,7 +249,7 @@ body {
     height: 288px;
     border-radius: 1000px;
     background: var(--brown);
-    background-image: url(../images/photo-small.png);
+    background-image: url(./images/photo-small.png);
     background-repeat: no-repeat;
     background-position: -40px 76px;
     background-size: contain;
@@ -262,7 +262,7 @@ body {
     height: 540px;
     border-radius: 1000px;
     background-color: var(--light-black);
-    background-image: url(../images/photo-large.png);
+    background-image: url(./images/photo-large.png);
     background-repeat: no-repeat;
     background-position: 50px 156px;
   }
